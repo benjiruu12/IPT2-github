@@ -3,8 +3,10 @@ public class calculator {
         int a = 8;
         int b = 23;
         int sum = a + b;
+        int sub = a - b;
 
         System.out.println("Addition " = sum);
+        System.out.println("Subtraction " = sub);
 
 
         
